@@ -1,6 +1,6 @@
 # sqlalchemy-challenge
 
-This activity evaluates the climate data taken from weather stations in Honolulu, Hawaii. SQLalchemy, Pandas, and Matplotlib were used to analyze the datasets that are stored in a SQLite database.  The final results are displayed using a Flask API that can be accessed here:
+This activity evaluates the climate data taken from weather stations in Honolulu, Hawaii. SQLalchemy, Pandas, and Matplotlib were used to analyze the datasets that are stored in a SQLite database.  The final results are displayed using a Flask API.
 
 
 
